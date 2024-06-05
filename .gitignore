@@ -1,0 +1,24 @@
+# Ignoring the virtual environment
+venv/
+
+# Ignoring file with vital informations
+creds.py
+
+# Ignoring OS-specific files
+*.pyc
+__pycache__/
+.DS_Store
+
+# Ignoring log files
+*.log
+
+# Ignoring IDE configuration files
+.vscode/
+.idea/
+
+# Ignoring temporary files
+*.tmp
+*.temp
+
+# Ignoring files created by the operating system
+Thumbs.db
